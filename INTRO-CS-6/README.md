@@ -1,9 +1,9 @@
-# INTRO-CS-6 - Source Control Using Git
+# INTRO-CS-6 - Source Control Using Git 
 
 ## Feature branch exercise
 
 This exercise will walk your team through a full release cycle for an example application.
-Work in teams of 2 - 5 developers.
+Work in teams of 2 - 5 developers!!!
 
 ## Background
 
